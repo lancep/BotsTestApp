@@ -12,6 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    int unusedVar = 0;
     // Override point for customization after application launch.
     return YES;
 }
