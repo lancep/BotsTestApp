@@ -1,0 +1,10 @@
+PODS:
+  - LPDataStructures (0.1.1)
+
+DEPENDENCIES:
+  - LPDataStructures
+
+SPEC CHECKSUMS:
+  LPDataStructures: 1a678344073aabde065f7620cb7ef81905f8e326
+
+COCOAPODS: 0.26.1
